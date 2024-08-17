@@ -4,8 +4,6 @@ We have tried to create a **generative model capable of composing polyphonic mus
 
 We train three modules based on **LSTM neural networks** as the generative model; a lot of effort is put into reducing high complexity of multi-instrumental music representation by a thorough musical analysis.
 
-[![YOUTUBE_SAMPLE](_img/youtube_screenshot.png)](https://www.youtube.com/watch?v=loztbOaOWn8&list=PLKptFqEtV0Vz_mThxehdBQPI7Xy5KTaLW)
-
 &nbsp;
 ## Musical Analysis
 
